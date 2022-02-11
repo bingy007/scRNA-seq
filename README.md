@@ -1,6 +1,7 @@
 # scRNA-seq tools
 ## Pipelines:
-
+  - Seurat: https://satijalab.org/seurat/index.html
+  - Scanpy: https://scanpy.readthedocs.io/en/stable/
 ## Automatic cell type indentification:
   - Cortal, A., Martignetti, L., Six, E. et al. Gene signature extraction and cell identity recognition at the single-cell level with Cell-ID. Nat Biotechnol 39, 1095–1102 (2021). https://doi.org/10.1038/s41587-021-00896-6
     > https://github.com/RausellLab/CelliD;
@@ -9,5 +10,11 @@
     > https://github.com/aristoteleo/dynamo-release;
     > https://dynamo-release.readthedocs.io/en/latest/
   - Lange, M., Bergen, V., Klein, M. et al. CellRank for directed single-cell fate mapping. Nat Methods 19, 159–170 (2022). https://doi.org/10.1038/s41592-021-01346-6
-     > https://cellrank.readthedocs.io/en/stable/
+    > https://cellrank.readthedocs.io/en/stable/
+  - La Manno, G., Soldatov, R., Zeisel, A. et al. RNA velocity of single cells. Nature 560, 494–498 (2018). https://doi.org/10.1038/s41586-018-0414-6
+    > http://velocyto.org/
+  - Bergen, V., Lange, M., Peidli, S. et al. Generalizing RNA velocity to transient cell states through dynamical modeling. Nat Biotechnol 38, 1408–1414 (2020). https://doi.org/10.1038/s41587-020-0591-3
+    > https://scvelo.readthedocs.io/
 ## Cell-cell interaction:
+  - Jin, S., Guerrero-Juarez, C.F., Zhang, L. et al. Inference and analysis of cell-cell communication using CellChat. Nat Commun 12, 1088 (2021). https://doi.org/10.1038/s41467-021-21246-9
+    > CellChat: http://www.cellchat.org/; https://github.com/sqjin/CellChat
