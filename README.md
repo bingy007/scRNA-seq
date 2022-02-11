@@ -1,4 +1,4 @@
-# scRNA-seq tools
+# Single-cell RNA-seq tools
 ## Pipelines:
   - Seurat: https://satijalab.org/seurat/index.html
   - Scanpy: https://scanpy.readthedocs.io/en/stable/
