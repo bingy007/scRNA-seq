@@ -19,3 +19,6 @@
 ## Cell-cell interaction:
   - Jin, S., Guerrero-Juarez, C.F., Zhang, L. et al. Inference and analysis of cell-cell communication using CellChat. Nat Commun 12, 1088 (2021). https://doi.org/10.1038/s41467-021-21246-9
     > CellChat: http://www.cellchat.org/; https://github.com/sqjin/CellChat
+## Differential abundance testing:
+  - Dann, E., Henderson, N.C., Teichmann, S.A. et al. Differential abundance testing on single-cell data using k-nearest neighbor graphs. Nat Biotechnol 40, 245–253 (2022). https://doi.org/10.1038/s41587-021-01033-z
+    > Milo: https://github.com/MarioniLab/miloR
