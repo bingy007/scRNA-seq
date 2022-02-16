@@ -3,6 +3,7 @@
   - Seurat: https://satijalab.org/seurat/index.html
     > Tutorial: https://github.com/hbctraining/scRNA-seq_online/tree/master/lessons
   - Scanpy: https://scanpy.readthedocs.io/en/stable/
+  - Scvi-tools: https://docs.scvi-tools.org/en/stable/index.html#
 ## Automatic cell type indentification:
   - Cortal, A., Martignetti, L., Six, E. et al. Gene signature extraction and cell identity recognition at the single-cell level with Cell-ID. Nat Biotechnol 39, 1095–1102 (2021). https://doi.org/10.1038/s41587-021-00896-6
     > https://github.com/RausellLab/CelliD;
