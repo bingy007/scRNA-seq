@@ -8,7 +8,7 @@
   - Cortal, A., Martignetti, L., Six, E. et al. Gene signature extraction and cell identity recognition at the single-cell level with Cell-ID. Nat Biotechnol 39, 1095–1102 (2021). https://doi.org/10.1038/s41587-021-00896-6
     > https://github.com/RausellLab/CelliD;
   - Pliner, H.A., Shendure, J. & Trapnell, C. Supervised classification enables rapid annotation of cell atlases. Nat Methods 16, 983–986 (2019). https://doi.org/10.1038/s41592-019-0535-3
-    > https://cole-trapnell-lab.github.io/garnett/
+    > https://cole-trapnell-lab.github.io/garnett/;
     > https://cole-trapnell-lab.github.io/monocle3/docs/clustering/#garnett
 ## Cell relationship, fate, velocity and trajectory:
   - Schwartz, G.W., Zhou, Y., Petrovic, J. et al. TooManyCells identifies and visualizes relationships of single-cell clades. Nat Methods 17, 405–413 (2020). https://doi.org/10.1038/s41592-020-0748-5
