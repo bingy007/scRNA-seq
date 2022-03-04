@@ -7,7 +7,12 @@
 ## Automatic cell type indentification:
   - Cortal, A., Martignetti, L., Six, E. et al. Gene signature extraction and cell identity recognition at the single-cell level with Cell-ID. Nat Biotechnol 39, 1095–1102 (2021). https://doi.org/10.1038/s41587-021-00896-6
     > https://github.com/RausellLab/CelliD;
-## Cell fate, velocity and trajectory:
+  - Pliner, H.A., Shendure, J. & Trapnell, C. Supervised classification enables rapid annotation of cell atlases. Nat Methods 16, 983–986 (2019). https://doi.org/10.1038/s41592-019-0535-3
+    > https://cole-trapnell-lab.github.io/garnett/
+    > https://cole-trapnell-lab.github.io/monocle3/docs/clustering/#garnett
+## Cell relationship, fate, velocity and trajectory:
+  - Schwartz, G.W., Zhou, Y., Petrovic, J. et al. TooManyCells identifies and visualizes relationships of single-cell clades. Nat Methods 17, 405–413 (2020). https://doi.org/10.1038/s41592-020-0748-5
+    > https://github.com/GregorySchwartz/too-many-cells
   - Xiaojie Qiu, Yan Zhang, Jorge D. Martin-Rufino, et al, Jonathan S. Weissman,Mapping transcriptomic vector fields of single cells,Cell,2022,,ISSN 0092-8674,https://doi.org/10.1016/j.cell.2021.12.045.
     > https://github.com/aristoteleo/dynamo-release;
     > https://dynamo-release.readthedocs.io/en/latest/
@@ -25,3 +30,8 @@
 ## Differential abundance testing:
   - Dann, E., Henderson, N.C., Teichmann, S.A. et al. Differential abundance testing on single-cell data using k-nearest neighbor graphs. Nat Biotechnol 40, 245–253 (2022). https://doi.org/10.1038/s41587-021-01033-z
     > Milo: https://github.com/MarioniLab/miloR
+## Doublet removal:
+  - McGinnis, Christopher S., Lyndsay M. Murrow, and Zev J. Gartner. "DoubletFinder: doublet detection in single-cell RNA sequencing data using artificial nearest neighbors." Cell systems 8.4 (2019): 329-337.
+    > https://github.com/chris-mcginnis-ucsf/DoubletFinder
+  - Wolock, Samuel L., Romain Lopez, and Allon M. Klein. "Scrublet: computational identification of cell doublets in single-cell transcriptomic data." Cell systems 8.4 (2019): 281-291.
+    > https://github.com/swolock/scrublet
