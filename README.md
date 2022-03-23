@@ -12,6 +12,7 @@
     > https://cole-trapnell-lab.github.io/garnett/;
     > https://cole-trapnell-lab.github.io/monocle3/docs/clustering/#garnett
 ## Cell relationship, fate, velocity and trajectory:
+  - https://www.10xgenomics.com/resources/analysis-guides/trajectory-analysis-using-10x-Genomics-single-cell-gene-expression-data
   - Schwartz, G.W., Zhou, Y., Petrovic, J. et al. TooManyCells identifies and visualizes relationships of single-cell clades. Nat Methods 17, 405–413 (2020). https://doi.org/10.1038/s41592-020-0748-5
     > https://github.com/GregorySchwartz/too-many-cells
   - Xiaojie Qiu, Yan Zhang, Jorge D. Martin-Rufino, et al, Jonathan S. Weissman,Mapping transcriptomic vector fields of single cells,Cell,2022,,ISSN 0092-8674,https://doi.org/10.1016/j.cell.2021.12.045.
