@@ -1,4 +1,6 @@
 # Single-cell RNA-seq tools
+  > Just a collection of tools I used in my analysis, will update depend on my own favor.
+  > And will put some useful knowledge here as well. 
 ## Pipelines:
   - Seurat: https://satijalab.org/seurat/index.html
     > Tutorial: https://github.com/hbctraining/scRNA-seq_online/tree/master/lessons
