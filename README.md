@@ -40,7 +40,7 @@
   - Wolock, Samuel L., Romain Lopez, and Allon M. Klein. "Scrublet: computational identification of cell doublets in single-cell transcriptomic data." Cell systems 8.4 (2019): 281-291.
     > https://github.com/swolock/scrublet
 # Current techniques
-## Ogbeide, Silvia, et al. "Into the multiverse: advances in single-cell multiomic profiling." Trends in Genetics (2022).https://doi.org/10.1016/j.tig.2022.03.015
+  - Ogbeide, Silvia, et al. "Into the multiverse: advances in single-cell multiomic profiling." Trends in Genetics (2022).https://doi.org/10.1016/j.tig.2022.03.015
 ![image](https://user-images.githubusercontent.com/19710340/169665170-60d55541-1571-4586-ba30-0a5da50cf89f.png)
 ![image](https://user-images.githubusercontent.com/19710340/169665211-092743a0-dbe7-4bfc-b983-849f5465afbf.png)
 
