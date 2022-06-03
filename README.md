@@ -34,6 +34,9 @@
 ## Differential abundance testing:
   - Dann, E., Henderson, N.C., Teichmann, S.A. et al. Differential abundance testing on single-cell data using k-nearest neighbor graphs. Nat Biotechnol 40, 245–253 (2022). https://doi.org/10.1038/s41587-021-01033-z
     > Milo: https://github.com/MarioniLab/miloR
+## DEG calculation:
+  - Squair, J.W., Gautier, M., Kathe, C. et al. Confronting false discoveries in single-cell differential expression. Nat Commun 12, 5692 (2021). https://doi.org/10.1038/s41467-021-25960-2
+    > Libra: https://github.com/neurorestore/Libra
 ## Doublet removal:
   - McGinnis, Christopher S., Lyndsay M. Murrow, and Zev J. Gartner. "DoubletFinder: doublet detection in single-cell RNA sequencing data using artificial nearest neighbors." Cell systems 8.4 (2019): 329-337.
     > https://github.com/chris-mcginnis-ucsf/DoubletFinder
