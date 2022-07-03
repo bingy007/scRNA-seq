@@ -8,6 +8,8 @@
   - Scvi-tools: https://docs.scvi-tools.org/en/stable/index.html#
   - KNetL(with a new view of dimensionality reduction) from iCellR: https://github.com/rezakj/iCellR
   - https://chanzuckerberg.github.io/scRNA-python-workshop/intro/setup.html
+## Integration:
+  - RPCA and reference based: https://satijalab.org/seurat/articles/integration_large_datasets.html
 ## Automatic cell type indentification:
   - Cortal, A., Martignetti, L., Six, E. et al. Gene signature extraction and cell identity recognition at the single-cell level with Cell-ID. Nat Biotechnol 39, 1095–1102 (2021). https://doi.org/10.1038/s41587-021-00896-6
     > https://github.com/RausellLab/CelliD;
