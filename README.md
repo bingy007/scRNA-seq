@@ -9,7 +9,10 @@
   - KNetL(with a new view of dimensionality reduction) from iCellR: https://github.com/rezakj/iCellR
   - https://chanzuckerberg.github.io/scRNA-python-workshop/intro/setup.html
 ## Integration:
-  - RPCA and reference based: https://satijalab.org/seurat/articles/integration_large_datasets.html
+  - Slow, Seurat CCA
+  - Fast, RPCA and reference based: https://satijalab.org/seurat/articles/integration_large_datasets.html
+  - Harmony: https://portals.broadinstitute.org/harmony/articles/quickstart.html; 
+    > Korsunsky, I., Millard, N., Fan, J. et al. Fast, sensitive and accurate integration of single-cell data with Harmony. Nat Methods 16, 1289–1296 (2019). https://doi.org/10.1038/s41592-019-0619-0
 ## Automatic cell type indentification:
   - Cortal, A., Martignetti, L., Six, E. et al. Gene signature extraction and cell identity recognition at the single-cell level with Cell-ID. Nat Biotechnol 39, 1095–1102 (2021). https://doi.org/10.1038/s41587-021-00896-6
     > https://github.com/RausellLab/CelliD;
