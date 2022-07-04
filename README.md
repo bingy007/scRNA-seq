@@ -29,7 +29,7 @@
   - Lange, M., Bergen, V., Klein, M. et al. CellRank for directed single-cell fate mapping. Nat Methods 19, 159–170 (2022). https://doi.org/10.1038/s41592-021-01346-6
     > https://cellrank.readthedocs.io/en/stable/
   - La Manno, G., Soldatov, R., Zeisel, A. et al. RNA velocity of single cells. Nature 560, 494–498 (2018). https://doi.org/10.1038/s41586-018-0414-6
-    > http://velocyto.org/
+    > http://velocyto.org/ ; https://ucdavis-bioinformatics-training.github.io/2020-Advanced_Single_Cell_RNA_Seq/data_analysis/Velocyto_fixed
   - Bergen, V., Lange, M., Peidli, S. et al. Generalizing RNA velocity to transient cell states through dynamical modeling. Nat Biotechnol 38, 1408–1414 (2020). https://doi.org/10.1038/s41587-020-0591-3
     > https://scvelo.readthedocs.io/
   - Tedesco, M., Giannese, F., Lazarević, D. et al. Chromatin Velocity reveals epigenetic dynamics by single-cell profiling of heterochromatin and euchromatin. Nat Biotechnol 40, 235–244 (2022). https://doi.org/10.1038/s41587-021-01031-1
