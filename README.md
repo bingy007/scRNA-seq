@@ -1,13 +1,17 @@
 # Single-cell RNA-seq tools
   > Just a collection of tools I used in my analysis, will update depend on my own flavor.
   > And will put some useful knowledge here as well. 
-## Pipelines:
+## Pipelines/Tutuorials/Resources:
   - Seurat: https://satijalab.org/seurat/index.html
     > Tutorial: https://github.com/hbctraining/scRNA-seq_online/tree/master/lessons
+    > https://www.singlecellcourse.org/index.html
+    > https://broadinstitute.github.io/2019_scWorkshop/index.html#course-overview
   - Scanpy: https://scanpy.readthedocs.io/en/stable/
+    > https://chanzuckerberg.github.io/scRNA-python-workshop/intro/about.html
   - Scvi-tools: https://docs.scvi-tools.org/en/stable/index.html#
   - KNetL(with a new view of dimensionality reduction) from iCellR: https://github.com/rezakj/iCellR
   - https://chanzuckerberg.github.io/scRNA-python-workshop/intro/setup.html
+  - https://github.com/seandavi/awesome-single-cell
 ## Integration:
   - Slow, Seurat CCA
   - Fast, RPCA and reference based: https://satijalab.org/seurat/articles/integration_large_datasets.html
