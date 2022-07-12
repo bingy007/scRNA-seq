@@ -4,7 +4,9 @@
 ## Pipelines/Tutuorials/Resources:
   - Seurat: https://satijalab.org/seurat/index.html
     > Tutorial: https://github.com/hbctraining/scRNA-seq_online/tree/master/lessons
+    
     > https://www.singlecellcourse.org/index.html
+
     > https://broadinstitute.github.io/2019_scWorkshop/index.html#course-overview
   - Scanpy: https://scanpy.readthedocs.io/en/stable/
     > https://chanzuckerberg.github.io/scRNA-python-workshop/intro/about.html
