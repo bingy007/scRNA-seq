@@ -62,6 +62,8 @@
   - BITFAM: https://github.com/jaleesr/BITFAM
     > Gao, S., Dai, Y., & Rehman, J. (2021). A Bayesian inference transcription factor activity model for the analysis of single-cell transcriptomes. Genome research, 31(7), 1296-1311.
 
+## Bam file processing:
+- Subset bam with interested cells: https://kb.10xgenomics.com/hc/en-us/articles/360022448251-How-to-filter-the-BAM-file-produced-by-10x-pipelines-with-a-list-of-barcodes-
 
 # Current techniques
   - Ogbeide, Silvia, et al. "Into the multiverse: advances in single-cell multiomic profiling." Trends in Genetics (2022).https://doi.org/10.1016/j.tig.2022.03.015
