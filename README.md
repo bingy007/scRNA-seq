@@ -65,8 +65,8 @@
 ## Bam file processing:
 - Subset bam with interested cells: https://kb.10xgenomics.com/hc/en-us/articles/360022448251-How-to-filter-the-BAM-file-produced-by-10x-pipelines-with-a-list-of-barcodes-
 
-# Current techniques
+# Current techniques and reviews:
   - Ogbeide, Silvia, et al. "Into the multiverse: advances in single-cell multiomic profiling." Trends in Genetics (2022).https://doi.org/10.1016/j.tig.2022.03.015
 ![image](https://user-images.githubusercontent.com/19710340/169665170-60d55541-1571-4586-ba30-0a5da50cf89f.png)
 ![image](https://user-images.githubusercontent.com/19710340/169665211-092743a0-dbe7-4bfc-b983-849f5465afbf.png)
-
+  - Preissl, S., Gaulton, K.J. & Ren, B. Characterizing cis-regulatory elements using single-cell epigenomics. Nat Rev Genet (2022). https://doi.org/10.1038/s41576-022-00509-1
