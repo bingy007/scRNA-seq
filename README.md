@@ -41,6 +41,8 @@
     > https://scvelo.readthedocs.io/
   - Tedesco, M., Giannese, F., Lazarević, D. et al. Chromatin Velocity reveals epigenetic dynamics by single-cell profiling of heterochromatin and euchromatin. Nat Biotechnol 40, 235–244 (2022). https://doi.org/10.1038/s41587-021-01031-1
     > Chromatin Velocity: https://github.com/leomorelli/scGET; https://github.com/dawe/scatACC
+  - Lynch, A. W., Theodoris, C. V., Long, H. W., Brown, M., Liu, X. S., & Meyer, C. A. (2022). MIRA: Joint regulatory modeling of multimodal expression and chromatin accessibility in single cells. Nature Methods, 1-12.
+    > RNA+ATAC: https://github.com/cistrome/MIRA.
 ## Cell-cell interaction:
   - Jin, S., Guerrero-Juarez, C.F., Zhang, L. et al. Inference and analysis of cell-cell communication using CellChat. Nat Commun 12, 1088 (2021). https://doi.org/10.1038/s41467-021-21246-9
     > CellChat: http://www.cellchat.org/; https://github.com/sqjin/CellChat
