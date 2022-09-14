@@ -76,7 +76,7 @@
 
 ### DEG
 - Cable, D. M., Murray, E., Shanmugam, V., Zhang, S., Zou, L. S., Diao, M., ... & Chen, F. (2022). Cell type-specific inference of differential expression in spatial transcriptomics. Nature Methods, 1-12.
-
+  > C-SIDE: https://github.com/dmcable/spacexr
 
 
 # Current techniques and reviews:
