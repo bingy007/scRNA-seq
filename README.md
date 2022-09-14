@@ -26,6 +26,8 @@
     > https://cole-trapnell-lab.github.io/garnett/;
     > https://cole-trapnell-lab.github.io/monocle3/docs/clustering/#garnett
 ## Cell relationship, fate, velocity and trajectory:
+  - Street, K., Risso, D., Fletcher, R. B., Das, D., Ngai, J., Yosef, N., ... & Dudoit, S. (2018). Slingshot: cell lineage and pseudotime inference for single-cell transcriptomics. BMC genomics, 19(1), 1-16.
+    > Slingshot: https://bioconductor.org/packages/devel/bioc/vignettes/slingshot/inst/doc/vignette.html. 
   - Saelens, W., Cannoodt, R., Todorov, H. et al. A comparison of single-cell trajectory inference methods. Nat Biotechnol 37, 547–554 (2019). https://doi.org/10.1038/s41587-019-0071-9
   - https://www.10xgenomics.com/resources/analysis-guides/trajectory-analysis-using-10x-Genomics-single-cell-gene-expression-data
   - Schwartz, G.W., Zhou, Y., Petrovic, J. et al. TooManyCells identifies and visualizes relationships of single-cell clades. Nat Methods 17, 405–413 (2020). https://doi.org/10.1038/s41592-020-0748-5
