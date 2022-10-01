@@ -1,7 +1,7 @@
 # Databases:
 - Panglao db:https://panglaodb.se/markers.html?cell_type=%27choose%27
 - Biocompare: https://www.biocompare.com/Editorial-Articles/588838-A-Guide-to-Monocytic-MDSC-Markers/
--  
+- Biocompare: https://www.biocompare.com/Editorial-Article-Search/?search=A%20guide%20to%20markers
 
 # Markers:
 - Mouse MDSCs: 
@@ -33,3 +33,18 @@
 ![image](https://user-images.githubusercontent.com/19710340/193429323-6a815ff5-2696-4435-952b-7fa50490df1b.png)
 - COVID-19 immune features revealed by a large-scale single-cell transcriptome atlas
 ![image](https://user-images.githubusercontent.com/19710340/193429353-5c6e835c-f674-4bea-b0f6-7b7a6a0cfb19.png)
+- T cells: 
+  - <img width="694" alt="image" src="https://user-images.githubusercontent.com/19710340/193429417-5b69d1e1-b2d1-44c5-8a43-e9310466baca.png">
+  - ![image](https://user-images.githubusercontent.com/19710340/193429437-5159d05c-df33-4424-b63c-56e3ffe5e55d.png)
+- B cells:
+  - Single-cell RNA sequencing reveals the sustained immune cell dysfunction in the pathogenesis of sepsis secondary to bacterial pneumonia
+  - ![image](https://user-images.githubusercontent.com/19710340/193429474-ce17ebbf-2006-4b15-9a92-7506e05d3ab6.png)
+  - Bn (TCL1A, IGHD, IL4R) 
+  - Bm (AIM2, TNFRSF13B, CD27) 
+  - Plasma (MZB1, IGHG3, JCHAIN)
+  - Single-Cell Sequencing of Peripheral Mononuclear Cells Reveals Distinct Immune Response Landscapes of COVID-19 and Influenza Patients 
+  - B(MS4A1+)
+  - naive B cells (MS4A1+IGHG1-)
+  - plasma cells (MZB1+IGHG1+)
+  - cycling plasma cells (MZB1+IGHG1+MKI67+TOP2A+)
+  - memory B cells (CD27+MS4A1+IGHG1+)
