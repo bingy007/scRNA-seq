@@ -27,6 +27,8 @@
   - Pliner, H.A., Shendure, J. & Trapnell, C. Supervised classification enables rapid annotation of cell atlases. Nat Methods 16, 983–986 (2019). https://doi.org/10.1038/s41592-019-0535-3
     > https://cole-trapnell-lab.github.io/garnett/;
     > https://cole-trapnell-lab.github.io/monocle3/docs/clustering/#garnett
+  - Spatial cell annotation:
+    > Brbić, M., Cao, K., Hickey, J.W. et al. Annotation of spatially resolved single-cell data with STELLAR. Nat Methods 19, 1411–1418 (2022). https://doi.org/10.1038/s41592-022-01651-8
 ## Cell relationship, fate, velocity and trajectory:
   - Street, K., Risso, D., Fletcher, R. B., Das, D., Ngai, J., Yosef, N., ... & Dudoit, S. (2018). Slingshot: cell lineage and pseudotime inference for single-cell transcriptomics. BMC genomics, 19(1), 1-16.
     > Slingshot: https://bioconductor.org/packages/devel/bioc/vignettes/slingshot/inst/doc/vignette.html. 
