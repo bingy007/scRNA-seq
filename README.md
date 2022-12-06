@@ -27,6 +27,8 @@
   - Pliner, H.A., Shendure, J. & Trapnell, C. Supervised classification enables rapid annotation of cell atlases. Nat Methods 16, 983–986 (2019). https://doi.org/10.1038/s41592-019-0535-3
     > https://cole-trapnell-lab.github.io/garnett/;
     > https://cole-trapnell-lab.github.io/monocle3/docs/clustering/#garnett
+  - Hu, C., Li, T., Xu, Y., Zhang, X., Li, F., Bai, J., ... & Zhang, Y. (2022). CellMarker 2.0: an updated database of manually curated cell markers in human/mouse and web tools based on scRNA-seq data. Nucleic Acids Research.
+    > http://bio-bigdata.hrbmu.edu.cn/CellMarker or http://117.50.127.228/CellMarker/
   - Spatial cell annotation:
     > Brbić, M., Cao, K., Hickey, J.W. et al. Annotation of spatially resolved single-cell data with STELLAR. Nat Methods 19, 1411–1418 (2022). https://doi.org/10.1038/s41592-022-01651-8
    
