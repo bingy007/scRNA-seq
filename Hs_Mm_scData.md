@@ -14,6 +14,7 @@
 - The Tabula Muris Consortium., Overall coordination., Logistical coordination. et al. Single-cell transcriptomics of 20 mouse organs creates a Tabula Muris. Nature 562, 367–372 (2018). https://doi.org/10.1038/s41586-018-0590-4
   - ![image](https://user-images.githubusercontent.com/19710340/188331438-ea54cee8-2929-4d17-9306-5c943f5abf06.png)
 
-
+- Lung atlas: He, Peng, et al. "A human fetal lung cell atlas uncovers proximal-distal gradients of differentiation and key regulators of epithelial fates." Cell (2022).
+  - https://lungcellatlas.org/
 
 # Reviews
