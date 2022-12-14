@@ -29,10 +29,16 @@
     > https://cole-trapnell-lab.github.io/monocle3/docs/clustering/#garnett
   - Hu, C., Li, T., Xu, Y., Zhang, X., Li, F., Bai, J., ... & Zhang, Y. (2022). CellMarker 2.0: an updated database of manually curated cell markers in human/mouse and web tools based on scRNA-seq data. Nucleic Acids Research.
     > http://bio-bigdata.hrbmu.edu.cn/CellMarker or http://117.50.127.228/CellMarker/
+  - Ianevski, A., Giri, A.K. & Aittokallio, T. Fully-automated and ultra-fast cell-type identification using specific marker combinations from single-cell transcriptomic data. Nat Commun 13, 1246 (2022). https://doi.org/10.1038/s41467-022-28803-w
+    > https://github.com/IanevskiAleksandr/sc-type
+
+  - Python-based: by integrating it into a reference atlas; Lotfollahi, M., Naghipourfar, M., Luecken, M.D. et al. Mapping single-cell data to reference atlases by transfer learning. Nat Biotechnol 40, 121–130 (2022). https://doi.org/10.1038/s41587-021-01001-7
+    > https://github.com/theislab/scarches/tree/master/notebooks
   - Spatial cell annotation:
     > Brbić, M., Cao, K., Hickey, J.W. et al. Annotation of spatially resolved single-cell data with STELLAR. Nat Methods 19, 1411–1418 (2022). https://doi.org/10.1038/s41592-022-01651-8
    
     > https://github.com/snap-stanford/stellar
+
 ## Cell relationship, fate, velocity and trajectory:
   - Street, K., Risso, D., Fletcher, R. B., Das, D., Ngai, J., Yosef, N., ... & Dudoit, S. (2018). Slingshot: cell lineage and pseudotime inference for single-cell transcriptomics. BMC genomics, 19(1), 1-16.
     > Slingshot: https://bioconductor.org/packages/devel/bioc/vignettes/slingshot/inst/doc/vignette.html. 
