@@ -2,6 +2,7 @@
   > Just a collection of tools I used in my analysis, will update depend on my own flavor.
   > And will put some useful knowledge here as well. 
   - A collection: https://www.scrna-tools.org/
+  - Open problems group: https://openproblems.bio/
 ## Pipelines/Tutuorials/Resources:
   - Seurat: https://satijalab.org/seurat/index.html
     > Tutorial: https://github.com/hbctraining/scRNA-seq_online/tree/master/lessons
@@ -63,6 +64,9 @@
 ## Cell-cell interaction:
   - Jin, S., Guerrero-Juarez, C.F., Zhang, L. et al. Inference and analysis of cell-cell communication using CellChat. Nat Commun 12, 1088 (2021). https://doi.org/10.1038/s41467-021-21246-9
     > CellChat: http://www.cellchat.org/; https://github.com/sqjin/CellChat
+
+  - LIANA: a LIgand-receptor ANalysis frAmework: Dimitrov, D., Türei, D., Garrido-Rodriguez M., Burmedi P.L., Nagai, J.S., Boys, C., Flores, R.O.R., Kim, H., Szalai, B., Costa, I.G., Valdeolivas, A., Dugourd, A. and Saez-Rodriguez, J. Comparison of methods and resources for cell-cell communication inference from single-cell RNA-Seq data. Nat Commun 13, 3224 (2022). https://doi.org/10.1038/s41467-022-30755-0
+    > https://saezlab.github.io/liana/articles/liana_tutorial.html
 ## Differential abundance testing:
   - Dann, E., Henderson, N.C., Teichmann, S.A. et al. Differential abundance testing on single-cell data using k-nearest neighbor graphs. Nat Biotechnol 40, 245–253 (2022). https://doi.org/10.1038/s41587-021-01033-z
     > Milo: https://github.com/MarioniLab/miloR
@@ -89,6 +93,19 @@
 ## TCR-seq analysis
 - scRepertoire: https://ncborcherding.github.io/vignettes/vignette.html
 
+## scRNAseq data simulator
+- Splatter: Zappia, L., Phipson, B. & Oshlack, A. Splatter: simulation of single-cell RNA sequencing data. Genome Biol 18, 174 (2017). https://doi.org/10.1186/s13059-017-1305-0
+- splatPop: Azodi, C.B., Zappia, L., Oshlack, A. et al. splatPop: simulating population scale single-cell RNA sequencing data. Genome Biol 22, 341 (2021). https://doi.org/10.1186/s13059-021-02546-1
+
+## Seq platforms
+- CEL-Seq2: Hashimshony, T., Senderovich, N., Avital, G. et al. CEL-Seq2: sensitive highly-multiplexed single-cell RNA-Seq. Genome Biol 17, 77 (2016). https://doi.org/10.1186/s13059-016-0938-8
+- Quartz-Seq2: Sasagawa, Y., Danno, H., Takada, H. et al. Quartz-Seq2: a high-throughput single-cell RNA-sequencing method that effectively uses limited sequence reads. Genome Biol 19, 29 (2018). https://doi.org/10.1186/s13059-018-1407-3
+- Smart-seq2: 
+  Picelli, S., Björklund, Å., Faridani, O. et al. Smart-seq2 for sensitive full-length transcriptome profiling in single cells. Nat Methods 10, 1096–1098 (2013). https://doi.org/10.1038/nmeth.2639- 
+  - Ramsköld, D., Luo, S., Wang, YC. et al. Full-length mRNA-Seq from single-cell levels of RNA and individual circulating tumor cells. Nat Biotechnol 30, 777–782 (2012). https://doi.org/10.1038/nbt.2282
+- 10X
+
+
 ## Spatial
 ### Pipeline
 
@@ -99,6 +116,9 @@
 - With GWAS co-exp: Zhang, M.J., Hou, K., Dey, K.K. et al. Polygenic enrichment distinguishes disease associations of individual cells in single-cell RNA-seq data. Nat Genet 54, 1572–1580 (2022). https://doi.org/10.1038/s41588-022-01167-z
   > scDRS: https://github.com/martinjzhang/scDRS.
 - Jagadeesh, K.A., Dey, K.K., Montoro, D.T. et al. Identifying disease-critical cell types and cellular processes by integrating single-cell RNA-sequencing and human genetics. Nat Genet 54, 1479–1492 (2022). https://doi.org/10.1038/s41588-022-01187-9
+# Databases
+- Deeply Integrated human Single-Cell Omics data: https://immunesinglecell.org/
+
 
 # Current techniques and reviews:
   - Ogbeide, Silvia, et al. "Into the multiverse: advances in single-cell multiomic profiling." Trends in Genetics (2022).https://doi.org/10.1016/j.tig.2022.03.015
