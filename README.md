@@ -3,6 +3,7 @@
   > And will put some useful knowledge here as well. 
   - A collection: https://www.scrna-tools.org/
   - Open problems group: https://openproblems.bio/
+  - Guide: See, Peter, et al. "A single-cell sequencing guide for immunologists." Frontiers in immunology 9 (2018): 2425.
 ## Pipelines/Tutuorials/Resources:
   - Seurat: https://satijalab.org/seurat/index.html
     > Tutorial: https://github.com/hbctraining/scRNA-seq_online/tree/master/lessons
