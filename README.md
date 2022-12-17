@@ -117,6 +117,10 @@
 - With GWAS co-exp: Zhang, M.J., Hou, K., Dey, K.K. et al. Polygenic enrichment distinguishes disease associations of individual cells in single-cell RNA-seq data. Nat Genet 54, 1572–1580 (2022). https://doi.org/10.1038/s41588-022-01167-z
   > scDRS: https://github.com/martinjzhang/scDRS.
 - Jagadeesh, K.A., Dey, K.K., Montoro, D.T. et al. Identifying disease-critical cell types and cellular processes by integrating single-cell RNA-sequencing and human genetics. Nat Genet 54, 1479–1492 (2022). https://doi.org/10.1038/s41588-022-01187-9
+
+# Multi-omics integration
+- Stark, S. G. et al. SCIM: universal single-cell matching with unpaired feature sets. Bioinformatics 36, i919–i927 (2020).
+
 # Databases
 - Deeply Integrated human Single-Cell Omics data: https://immunesinglecell.org/
 
