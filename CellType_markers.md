@@ -48,3 +48,5 @@
   - plasma cells (MZB1+IGHG1+)
   - cycling plasma cells (MZB1+IGHG1+MKI67+TOP2A+)
   - memory B cells (CD27+MS4A1+IGHG1+)
+- DC:
+  <img width="1420" alt="image" src="https://user-images.githubusercontent.com/19710340/209679825-59659591-93f7-4ff9-8c05-1d8c01f01d76.png">
