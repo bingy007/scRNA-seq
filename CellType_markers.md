@@ -51,5 +51,6 @@
 - DC:
   <img width="1420" alt="image" src="https://user-images.githubusercontent.com/19710340/209679825-59659591-93f7-4ff9-8c05-1d8c01f01d76.png">
 
-<img width="474" alt="image" src="https://user-images.githubusercontent.com/19710340/213514299-4be48fd7-a1a1-46f0-aa10-1d4078ba4616.png">
+
+[Immune_cell_makrker.txt](https://github.com/bingy007/scRNA-seq/files/10459229/Immune_cell_makrker.txt)
 
