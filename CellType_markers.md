@@ -51,7 +51,5 @@
 - DC:
   <img width="1420" alt="image" src="https://user-images.githubusercontent.com/19710340/209679825-59659591-93f7-4ff9-8c05-1d8c01f01d76.png">
 
-<img width="237" alt="image" src="https://user-images.githubusercontent.com/19710340/213514099-12994954-dae6-45c2-aba5-8170d0a8ede3.png">
+<img width="474" alt="image" src="https://user-images.githubusercontent.com/19710340/213514299-4be48fd7-a1a1-46f0-aa10-1d4078ba4616.png">
 
-
-CD8 CD62L+ TemRA T cells	CCR7-CD62L+CD45RA+CD45RO- CD8+ CD3+ Lymphocytes
