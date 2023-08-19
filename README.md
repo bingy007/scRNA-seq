@@ -1,10 +1,10 @@
 # Single-cell RNA-seq tools
-  > Just a collection of tools I used in my analysis, will update depend on my own flavor.
+  > Just a collection of tools I used in my analysis, will update depending on my own flavor.
   > And will put some useful knowledge here as well. 
   - A collection: https://www.scrna-tools.org/
   - Open problems group: https://openproblems.bio/
-  - Guide: See, Peter, et al. "A single-cell sequencing guide for immunologists." Frontiers in immunology 9 (2018): 2425.
-## Pipelines/Tutuorials/Resources:
+  - Guide: See, Peter, et al. "A single-cell sequencing guide for immunologists." Frontiers in Immunology 9 (2018): 2425.
+## Pipelines/Tutorials/Resources:
   - Seurat: https://satijalab.org/seurat/index.html
     > Tutorial: https://github.com/hbctraining/scRNA-seq_online/tree/master/lessons
     
@@ -19,12 +19,12 @@
   - https://github.com/seandavi/awesome-single-cell
 ## Integration:
   - Slow, Seurat CCA
-  - Fast, RPCA and reference based: https://satijalab.org/seurat/articles/integration_large_datasets.html
+  - Fast, RPCA and reference-based: https://satijalab.org/seurat/articles/integration_large_datasets.html
   - Harmony: https://portals.broadinstitute.org/harmony/articles/quickstart.html; 
     > Korsunsky, I., Millard, N., Fan, J. et al. Fast, sensitive and accurate integration of single-cell data with Harmony. Nat Methods 16, 1289–1296 (2019). https://doi.org/10.1038/s41592-019-0619-0
   - He, Zhisong, et al. "CSS: cluster similarity spectrum integration of single-cell genomics data." Genome biology 21.1 (2020): 1-21.
     > https://github.com/quadbiolab/simspec
-## Automatic cell type indentification:
+## Automatic cell type identification:
   - Cortal, A., Martignetti, L., Six, E. et al. Gene signature extraction and cell identity recognition at the single-cell level with Cell-ID. Nat Biotechnol 39, 1095–1102 (2021). https://doi.org/10.1038/s41587-021-00896-6
     > https://github.com/RausellLab/CelliD;
   - Pliner, H.A., Shendure, J. & Trapnell, C. Supervised classification enables rapid annotation of cell atlases. Nat Methods 16, 983–986 (2019). https://doi.org/10.1038/s41592-019-0535-3
@@ -49,7 +49,7 @@
   - https://www.10xgenomics.com/resources/analysis-guides/trajectory-analysis-using-10x-Genomics-single-cell-gene-expression-data
   - Schwartz, G.W., Zhou, Y., Petrovic, J. et al. TooManyCells identifies and visualizes relationships of single-cell clades. Nat Methods 17, 405–413 (2020). https://doi.org/10.1038/s41592-020-0748-5
     > https://github.com/GregorySchwartz/too-many-cells
-  - Xiaojie Qiu, Yan Zhang, Jorge D. Martin-Rufino, et al, Jonathan S. Weissman,Mapping transcriptomic vector fields of single cells,Cell,2022,,ISSN 0092-8674,https://doi.org/10.1016/j.cell.2021.12.045.
+  - Xiaojie Qiu, Yan Zhang, Jorge D. Martin-Rufino, et al, Jonathan S. Weissman, Mapping transcriptomic vector fields of single cells,Cell,2022,,ISSN 0092-8674,https://doi.org/10.1016/j.cell.2021.12.045.
     > https://github.com/aristoteleo/dynamo-release;
     > https://dynamo-release.readthedocs.io/en/latest/
   - Lange, M., Bergen, V., Klein, M. et al. CellRank for directed single-cell fate mapping. Nat Methods 19, 159–170 (2022). https://doi.org/10.1038/s41592-021-01346-6
