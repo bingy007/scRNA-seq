@@ -90,7 +90,7 @@
   - Pando: https://github.com/quadbiolab/Pando
     > Fleck, J.S., Jansen, S.M.J., Wollny, D. et al. Inferring and perturbing cell fate regulomes in human brain organoids. Nature (2022). https://doi.org/10.1038/s41586-022-05279-8
   - Dictys: Wang, L., Trasanidis, N., Wu, T. et al. Dictys: dynamic gene regulatory network dissects developmental continuum with single-cell multiomics. Nat Methods 20, 1368–1378 (2023). https://doi.org/10.1038/s41592-023-01971-3
-  - 
+  - MIRA: Lynch, A.W., Theodoris, C.V., Long, H.W. et al. MIRA: joint regulatory modeling of multimodal expression and chromatin accessibility in single cells. Nat Methods 19, 1097–1108 (2022). https://doi.org/10.1038/s41592-022-01595-z
 ## Remove background/ambient RNA:
   - Fleming, S.J., Chaffin, M.D., Arduini, A. et al. Unsupervised removal of systematic background noise from droplet-based single-cell experiments using CellBender. Nat Methods 20, 1323–1335 (2023). https://doi.org/10.1038/s41592-023-01943-7
 ## Bam file processing:
