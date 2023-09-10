@@ -74,6 +74,7 @@
 ## DEG calculation:
   - Squair, J.W., Gautier, M., Kathe, C. et al. Confronting false discoveries in single-cell differential expression. Nat Commun 12, 5692 (2021). https://doi.org/10.1038/s41467-021-25960-2
     > Libra: https://github.com/neurorestore/Libra
+  - small difference: Weinberger, E., Lin, C. & Lee, SI. Isolating salient variations of interest in single-cell data with contrastiveVI. Nat Methods 20, 1336–1345 (2023). https://doi.org/10.1038/s41592-023-01955-3
 ## Doublet removal:
   - McGinnis, Christopher S., Lyndsay M. Murrow, and Zev J. Gartner. "DoubletFinder: doublet detection in single-cell RNA sequencing data using artificial nearest neighbors." Cell systems 8.4 (2019): 329-337.
     > https://github.com/chris-mcginnis-ucsf/DoubletFinder
