@@ -88,6 +88,10 @@
     > Gao, S., Dai, Y., & Rehman, J. (2021). A Bayesian inference transcription factor activity model for the analysis of single-cell transcriptomes. Genome research, 31(7), 1296-1311.
   - Pando: https://github.com/quadbiolab/Pando
     > Fleck, J.S., Jansen, S.M.J., Wollny, D. et al. Inferring and perturbing cell fate regulomes in human brain organoids. Nature (2022). https://doi.org/10.1038/s41586-022-05279-8
+  - Dictys: Wang, L., Trasanidis, N., Wu, T. et al. Dictys: dynamic gene regulatory network dissects developmental continuum with single-cell multiomics. Nat Methods 20, 1368–1378 (2023). https://doi.org/10.1038/s41592-023-01971-3
+  - 
+## Remove background/ambient RNA:
+  - Fleming, S.J., Chaffin, M.D., Arduini, A. et al. Unsupervised removal of systematic background noise from droplet-based single-cell experiments using CellBender. Nat Methods 20, 1323–1335 (2023). https://doi.org/10.1038/s41592-023-01943-7
 ## Bam file processing:
 - Subset bam with interested cells: https://kb.10xgenomics.com/hc/en-us/articles/360022448251-How-to-filter-the-BAM-file-produced-by-10x-pipelines-with-a-list-of-barcodes-
 
