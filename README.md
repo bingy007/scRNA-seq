@@ -1,4 +1,4 @@
-# Single-cell RNA-seq tools
+# Single-cell toolbox
   > Just a collection of tools I used in my analysis, will update depending on my own flavor.
   > And will put some useful knowledge here as well. 
   - A collection: https://www.scrna-tools.org/
