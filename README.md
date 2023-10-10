@@ -24,6 +24,8 @@
     > Korsunsky, I., Millard, N., Fan, J. et al. Fast, sensitive and accurate integration of single-cell data with Harmony. Nat Methods 16, 1289–1296 (2019). https://doi.org/10.1038/s41592-019-0619-0
   - He, Zhisong, et al. "CSS: cluster similarity spectrum integration of single-cell genomics data." Genome biology 21.1 (2020): 1-21.
     > https://github.com/quadbiolab/simspec
+  - De Donno, C., Hediyeh-Zadeh, S., Moinfar, A.A. et al. Population-level integration of single-cell datasets enables multi-scale analysis across samples. Nat Methods (2023). https://doi.org/10.1038/s41592-023-02035-2
+    > Part of https://docs.scarches.org/en/latest/; transposase-accessible chromatin and cross-species datasets
 ## Automatic cell type identification:
   - Cortal, A., Martignetti, L., Six, E. et al. Gene signature extraction and cell identity recognition at the single-cell level with Cell-ID. Nat Biotechnol 39, 1095–1102 (2021). https://doi.org/10.1038/s41587-021-00896-6
     > https://github.com/RausellLab/CelliD;
