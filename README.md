@@ -139,4 +139,8 @@
   - Preissl, S., Gaulton, K.J. & Ren, B. Characterizing cis-regulatory elements using single-cell epigenomics. Nat Rev Genet (2022). https://doi.org/10.1038/s41576-022-00509-1
 
 
-# Single-cell ATACseq: https://www.archrproject.com/bookdown/index.html#section
+# Single-cell ATACseq: 
+- ArchR:Granja, J.M., Corces, M.R., Pierce, S.E. et al. ArchR is a scalable software package for integrative single-cell chromatin accessibility analysis. Nat Genet 53, 403–411 (2021). https://doi.org/10.1038/s41588-021-00790-6
+  > https://www.archrproject.com/bookdown/index.html#section
+- SnapATAC2: Fang, R., Preissl, S., Li, Y. et al. Comprehensive analysis of single cell ATAC-seq data with SnapATAC. Nat Commun 12, 1337 (2021). https://doi.org/10.1038/s41467-021-21583-9
+  > https://github.com/r3fang/SnapATAC
